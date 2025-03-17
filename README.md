@@ -10,6 +10,6 @@ O objetivo do projeto é analisar circuitos lógicos digitais utilizando express
 
 - Python
 - Z3 Solver (z3-solver)
-- google colab
+- google colab (https://colab.research.google.com/drive/1K63oVwCt_dfdjYXwE2EubUER3HmfrpIE?usp=sharing)
 - Manipulação de Expressões Booleanas (com Python)
 - SymPy (para manipulação simbólica de expressões matemáticas e booleanas)
